@@ -1,0 +1,5 @@
+name: PlaceToBreak
+version: ${project.version}
+main: ghaliwang.placetobreak.PlaceToBreak
+api-version: 1.13
+description: Place block to break block
